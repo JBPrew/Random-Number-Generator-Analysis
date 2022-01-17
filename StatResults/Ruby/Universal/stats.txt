@@ -1,0 +1,16 @@
+		UNIVERSAL STATISTICAL TEST
+		--------------------------------------------
+		COMPUTATIONAL INFORMATION:
+		--------------------------------------------
+		(a) L         = 9
+		(b) Q         = 5120
+		(c) K         = 1105991
+		(d) sum       = 9043331.290272
+		(e) sigma     = 0.001066
+		(f) variance  = 3.311000
+		(g) exp_value = 8.176425
+		(h) phi       = 8.176677
+		(i) WARNING:  1 bits were discarded.
+		-----------------------------------------
+SUCCESS		p_value = 0.812864
+

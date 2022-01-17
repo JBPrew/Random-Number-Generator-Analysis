@@ -1,0 +1,26 @@
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.exe
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.deps.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.dev.json
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.dll
+c:\SciFair\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.pdb
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csprojAssemblyReference.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfoInputs.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfo.cs
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csproj.CoreCompileInputs.cache
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.dll
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.pdb
+c:\SciFair\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.genruntimeconfig.cache
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.exe
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.deps.json
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.json
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.runtimeconfig.dev.json
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.dll
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\bin\Debug\netcoreapp3.1\C#RNG.pdb
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csprojAssemblyReference.cache
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfoInputs.cache
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.AssemblyInfo.cs
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.csproj.CoreCompileInputs.cache
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.dll
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.pdb
+c:\Users\Jack's PC\Desktop\GHP\Project\Generators\RNG Generator\C#\obj\Debug\netcoreapp3.1\C#RNG.genruntimeconfig.cache

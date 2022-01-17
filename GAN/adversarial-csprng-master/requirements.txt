@@ -1,0 +1,8 @@
+matplotlib
+pydot
+pandas
+tensorflow==1.9.0
+numpy
+keras
+tqdm
+h5py
